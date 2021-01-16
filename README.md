@@ -3,3 +3,5 @@
 - We build a python-powered flask app and then use javascript to add graphs on it. 
 - The database used is mongodb. 
 - For the background, we use bideo.js to have a full screen video playing. 
+
+![app1](images/app1.png)
